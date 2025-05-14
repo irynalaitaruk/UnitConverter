@@ -1,0 +1,11 @@
+{
+  "name": "unitconverter",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+  "start": "node src/index.js"
+},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
